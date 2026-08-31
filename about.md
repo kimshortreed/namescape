@@ -17,7 +17,7 @@ I recognize that it is important to provide this personal context so that you ca
 
 I was born on the west coast of England in a beach town called [Weston-super-Mare](https://goo.gl/maps/eJng1Au5ASep7ruw8). Maternally my family has roots in England, Australia, and India. We recently learned that my great-great aunt, on my mother's side, is the famous Romany leader [Urania Boswell](https://www.farnborough-kent-village.org.uk/locks_boswells.html).   
 
-<p><details><summary><strong>Click here to read the rest of this post...</strong> </summary></p>
+<details><summary><strong>Click here to read the rest of this post...</strong></summary>
 
 <figure>
   <img src="assets/img/about-02.jpg" alt="the SEMYOME (Semiahmoo) Territory of my childhood" float="right">
