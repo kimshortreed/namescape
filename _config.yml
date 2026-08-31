@@ -20,11 +20,17 @@ author: Kim Shortreed, 2026
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://kimshortreed.github.io"
+  About: "about"
+  Untitled ṮEṮÁĆES map:
+    - Introduction: "https://kimshortreed.github.io/namescape/mapintro/"
+    - Meet TEMOSEṈ: "https://kimshortreed.github.io/namescape/temosen/"
+    - Map origins: "https://kimshortreed.github.io/namescape/origins/"
+    - Construction gallery: "https://kimshortreed.github.io/namescape/gallery/"
+    - Tech tips: "https://kimshortreed.github.io/namescape/tech/"
+    - Credits: "https://kimshortreed.github.io/namescape/credits/"
+  Namescapes:
+    - Salish Sea name changes: "https://kimshortreed.github.io/namescape/namechanges/"
+    - Place name and mapping links: "https://kimshortreed.github.io/namescape/links/"
 
 ################
 # --- Logo --- #
