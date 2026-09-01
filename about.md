@@ -6,14 +6,9 @@ subtitle: A bit about my current perspectives
 
 A happy hello to you. My name is Kim Shortreed (he/him), and I am an uninvited guest in [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [W̱SÁNEĆ](https://wsanec.com/history-territory/) territories in the [Salish Sea](https://en.wikipedia.org/wiki/Salish_Sea). I am a recent (May, 2023) [PhD graduate](https://www.uvic.ca/humanities/english/graduate/studentprofiles/shortreed-kim.php), writer, and artist.
 
-<figure markdown="1">
-![Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian]({{ 'assets/img/about-01.jpg' | relative_url }})
-<figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
-</figure>
-
 <figure>
   <img src="{{ 'assets/img/about-01.jpg' | relative_url }}" alt="Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian">
-  <figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
+  <figcaption>Standing inside the <em>Untitled ṮEṮÁĆES</em> map with Jillian.</figcaption>
 </figure>
 
 My academic work is interdisciplinary: I focus on place names, or toponyms, through a particular lens, drawing from a mix of geohumanities, cartography, history, media studies, digital humanities, Indigenous studies, and settler colonial studies. I am interested in the settler-politics and social-justice aspects of “namescapes,” what I understand as the way we make and maintain a sense of place through naming landscapes. I also write about freestyle skateboarding. You can learn more about my academic and professional background on [my CV webpage](https://kimshortreed.github.io).
