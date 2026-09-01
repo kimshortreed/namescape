@@ -17,8 +17,6 @@ I recognize that it is important to provide this personal context so that you ca
 
 I was born on the west coast of England in a beach town called [Weston-super-Mare](https://goo.gl/maps/eJng1Au5ASep7ruw8). Maternally my family has roots in England, Australia, and India. We recently learned that my great-great aunt, on my mother's side, is the famous Romany leader [Urania Boswell](https://www.farnborough-kent-village.org.uk/locks_boswells.html).   
 
-<details><summary><strong>Click here to read the rest of this post...</strong></summary>
-
 <figure style="float: right; padding-left:5px;">
   <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME Territory of my childhood">
   <figcaption>SEMYOME Territory, near the Canada/USA border.</figcaption>
@@ -48,4 +46,4 @@ The _Untitled ṮEṮÁĆES_ map intends to encourage curiosity about how we exp
 
 In part, the haptic map concept and this Namescape site is inspired by this passage in the [Truth and Reconciliation Commission of Canada’s Summary](http://publications.gc.ca/collections/collection_2015/trc/IR4-7-2015-eng.pdf): “The education system itself must be transformed into one that rejects the racism embedded in colonial systems of education and treats Aboriginal and Euro-Canadian knowledge systems with equal respect.” 
 
-Namescapes, the networks of place names we create, are a kind of knowledge system in urgent need of working toward an equal respect. The first haptic map that TEMOSEṈ and I made, along with help from [many others](https://kimshortreed.github.io/namescape/credits/), intends to further this work for [SENĆOŦEN namescapes](https://maps.fpcc.ca/languages/senc%CC%81o%C5%A7en-malchosen-lekwungen-semiahmoo-t%E2%80%99sou-ke).</details>
+Namescapes, the networks of place names we create, are a kind of knowledge system in urgent need of working toward an equal respect. The first haptic map that TEMOSEṈ and I made, along with help from [many others](https://kimshortreed.github.io/namescape/credits/), intends to further this work for [SENĆOŦEN namescapes](https://maps.fpcc.ca/languages/senc%CC%81o%C5%A7en-malchosen-lekwungen-semiahmoo-t%E2%80%99sou-ke).
