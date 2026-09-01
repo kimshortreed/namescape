@@ -6,15 +6,8 @@ subtitle: A bit about my current perspectives
 
 A happy hello to you. My name is Kim Shortreed (he/him), and I am an uninvited guest in [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [W̱SÁNEĆ](https://wsanec.com/history-territory/) territories in the [Salish Sea](https://en.wikipedia.org/wiki/Salish_Sea). I am a recent (May, 2023) [PhD graduate](https://www.uvic.ca/humanities/english/graduate/studentprofiles/shortreed-kim.php), writer, and artist.
 
-<figure>
-  <img src="assets/img/about-01.jpg" alt="Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian">
-  <figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
-</figure>
-
-<figure markdown="1">]
-  
+<figure markdown="1">
 ![Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian]({{ 'assets/img/about-01.jpg' | relative_url }})
-
 <figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
 </figure>
 
