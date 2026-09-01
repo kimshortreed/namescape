@@ -4,8 +4,6 @@ title: Meet TEMOSEṈ
 subtitle: Get to know TEMOSEṈ Chazz Elliott
 ---
 
-![TEMOSEṈ laying out part of the framing for the Untitled ṮEṮÁĆES map](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzi6SNeD7ZKGHfWKqosmd45v3fF2p0UoiN7dz2xAOVEnBCs8VOzHf5h6D044-bc-_1DLbGb33I7CJwp7m4G7BL06YYeq3vx8jdqeMsbFHR3ohqVDmqpKqim_aCK0X6mHwl2g0xTZd7afk3ScGGoZsnWWBFJqG-BQWrRWuTr_DsfeXWBFngpnYU6kKqNQ/s1600/TEMOSEN01.png)TEMOSEṈ laying out part of the framing for the _Untitled ṮEṮÁĆES_ map.
-
 <figure style="text-align:center;">
   <img src="{{ 'assets/img/TEMOSEN-01.png' | relative_url }}" alt="TEMOSEṈ laying out part of the framing for the Untitled ṮEṮÁĆES map">
   <figcaption>TEMOSEṈ laying out part of the framing for the <i>Untitled ṮEṮÁĆES</i> map.</figcaption>
