@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Construction gallery
-subtitle: Images of making the <em>Untitled ṮEṮÁĆES</em> map
+subtitle: Making the first haptic map
 ---
 
 ![triptych of finished Untitled ṮEṮÁĆES map](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/0001.jpg)
 
-This gallery shows most of the work it took to make the finished _Untitled ṮEṮÁĆES_ map. Like any art project, we had to work out next steps as we went along. But this process was also what made the project so satisfying. 
+This gallery shows most of the work it took to make the first finished haptic map protoype, _Untitled ṮEṮÁĆES_ map. Like any art project, we had to work out next steps as we went along. But this process was also what made the project so satisfying. 
 
 ![drawing of map](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/001.jpg)1\. The first sketch of the map concept, which was was originally a table-top design of some kind.
 
