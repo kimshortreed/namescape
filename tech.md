@@ -7,7 +7,7 @@ subtitle: Some tech approaches to making interactive maps
 
 This page looks at some of the technology choices we made while making the _Untitled ṮEṮÁĆES_ map. 
 
-## Sound Tech: Flyrontech’s FN-M2A vs. Arduino
+## Sound tech: Flyrontech’s FN-M2A vs. Arduino
 
 <figure style="text-align:center;">
   <img src="{{ 'assets/img/tech-01.png' | relative_url }}" alt="Flyrontech’s FN-M2A PIR Motion Sensor Activated Audio Player (left), and the Arduino Uno R3 microcontroller board (right)">
