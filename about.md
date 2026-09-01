@@ -20,8 +20,8 @@ I was born on the west coast of England in a beach town called [Weston-super-Mar
 <details><summary><strong>Click here to read the rest of this post...</strong></summary>
 
 <figure style="float: right; padding-left:5px;">
-  <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME (Semiahmoo) Territory of my childhood">
-  <figcaption>Where I grew up, in SEMYOME Territory, near the Canada/USA border.</figcaption>
+  <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME Territory of my childhood">
+  <figcaption>SEMYOME Territory, near the Canada/USA border.</figcaption>
 </figure>
 
 When I was five, we emigrated to Treaty 6 territory (Edmonton) next to the [North Saskatchewan River, or kisiskâciwanisîpiy](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-river), in Cree, where my stepdad was born and raised. We then moved to [White Rock](https://goo.gl/maps/f5Q3Zk5oper1aPCZ7), what I consider my home town, in [SEMYOME (Semiahmoo) Territory](https://www.semiahmoofirstnation.ca/). I grew up playing on the beach as an uninvited guest within and around the boundaries of the [Semiahmoo Reserve](https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/RVDetail.aspx?RESERVE_NUMBER=08047). 
