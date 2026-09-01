@@ -37,7 +37,7 @@ In the early days of thinking about the haptic map, I knew that I wanted to remo
 
 The _Untitled ṮEṮÁĆES_ map, like the _Coming Home_ map, is not intended to be cartographically accurate. It attempts instead to encourage us to feel differently about how we each construct our personal perceptions of landscape as a familiar place.
 
-The haptic-map concept is also in part an inquiry into how much “mapness” can be removed from a map before a representation of landscape turns purely abstract. I found echoes of this investigation in William Kentridge’s exercise called “Making a Horse,” which is in Kentridge’s _[Six Drawing Lessons](https://www.hup.harvard.edu/catalog.php?isbn=9780674365803)_—you can see the video versions of Six Drawing Lessons on the [Mahindra Humanities Center’s YouTube channel](https://www.youtube.com/playlist?list=PLtxVM47qfVNCiZGjrzGk68GpwXVCtUVHo).
+The haptic-map concept is also in part an inquiry into how much “mapness” can be removed from a map before a representation of landscape turns purely abstract. I found helpful echoes of this investigation in William Kentridge’s exercise called “Making a Horse,” which is in Kentridge’s _[Six Drawing Lessons](https://www.hup.harvard.edu/catalog.php?isbn=9780674365803)_—you can see the video versions of Six Drawing Lessons on the [Mahindra Humanities Center’s YouTube channel](https://www.youtube.com/playlist?list=PLtxVM47qfVNCiZGjrzGk68GpwXVCtUVHo).
 
 <figure style="text-align:center;">
   <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="William Kentridge’s “Making a Horse” exercise">
