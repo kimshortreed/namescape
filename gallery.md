@@ -4,6 +4,8 @@ title: Construction gallery
 subtitle: Images of making the _Untitled ṮEṮÁĆES_ map
 ---
 
+This gallery shows most of the work it took to make the finished _Untitled ṮEṮÁĆES_ map. Like any art project, we had to work out next steps as we went along. But this process was also what made the project so satisfying. 
+
 ![triptych of finished Untitled ṮEṮÁĆES map](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/0001.jpg)
 
 ![drawing of map](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/001.jpg)1\. The first sketch of the map concept, which was was originally a table-top design of some kind.
@@ -96,7 +98,10 @@ subtitle: Images of making the _Untitled ṮEṮÁĆES_ map
 
 ![the Untitled ṮEṮÁĆES map in Legacy Gallery](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/045.jpg)44\. The _Untitled ṮEṮÁĆES_ map is ready to invite you in to explore.
 
-![the Untitled ṮEṮÁĆES map in Legacy Gallery](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/046.jpg)45\. We plan to show the _Untitled ṮEṮÁĆES_ map in other venues in the coming years. Check out the [Updates page](https://www.namescape.ca/search/label/Updates) for the latest information.
+![the Untitled ṮEṮÁĆES map in Legacy Gallery](https://raw.githubusercontent.com/kimshortreed/hapticmap/main/images/046.jpg)45\. The _Untitled ṮEṮÁĆES_ map showing in [University of Victoria Legacy Art Galleries](https://legacy.uvic.ca/gallery/blog/untitled-tetaces/)' downtown gallery location. 
 
+Click on the image below to see a virtual, interactive version of the _Untitled ṮEṮÁĆES_ map in the Legacy Gallery space. 
+
+[![screenshot of the virtual version of the map installation](assets/img/virtual-map-screenshot.png)](https://my.matterport.com/show/?m=QNwzN9nmvzg)
 
 
