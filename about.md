@@ -24,7 +24,7 @@ I was born on the west coast of England in a beach town called [Weston-super-Mar
   <figcaption>SEMYOME Territory, near the Canada/USA border.</figcaption>
 </figure>
 
-When I was five, we emigrated to Treaty 6 territory (Edmonton) next to the [North Saskatchewan River, or kisiskâciwanisîpiy](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-river), in Cree, where my stepdad was born and raised. We then moved to [White Rock](https://goo.gl/maps/f5Q3Zk5oper1aPCZ7), what I consider my home town, in [SEMYOME (Semiahmoo) Territory](https://www.semiahmoofirstnation.ca/). I grew up playing on the beach as an uninvited guest within and around the boundaries of the [Semiahmoo Reserve](https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/RVDetail.aspx?RESERVE_NUMBER=08047). 
+When I was five, we emigrated to Treaty 6 territory, in Edmonton, next to the [North Saskatchewan River, or kisiskâciwanisîpiy](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-river), where my stepdad was born and raised. We then moved to [White Rock](https://goo.gl/maps/f5Q3Zk5oper1aPCZ7), what I consider my home town, in [SEMYOME (Semiahmoo) Territory](https://www.semiahmoofirstnation.ca/). I grew up playing on the beach as an uninvited guest within and around the boundaries of the [Semiahmoo Reserve](https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/RVDetail.aspx?RESERVE_NUMBER=08047). 
 
 My childhood soundscape was seagull cries, surf, and passing trains, and my scentscape was dusty rosehip bushes, sunbaked kelp, steaming tidal pools, and train-track creosote, and that particular wet-bone tang of decayed sand dollars.
 
