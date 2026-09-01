@@ -22,8 +22,8 @@ Pearce’s _[Coming Home to Indigenous Place Names in Canada](https://umaine.edu
 
 Pearce and Stephen J. Hornsby talk about the making of the _Coming Home_ map in “[Making the _Coming Home_ Map](https://www.utpjournals.press/doi/abs/10.3138/cart-2019-0012),” mentioning that they pushed against Western notions of “research” in “the tradition of anthropology and ethnogeography” when making the map and instead “sought to compile traditional names from language programs, language keepers, and cultural committees and liaisons” and determined “if the names could be shared with the outside, through a process of permissions and approvals.”
 
-<figure>
-  <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="the Coming Home map">
+<figure style="text-align:center;">
+  <img src="{{ 'assets/img/origins-03.png' | relative_url }}" alt="the Coming Home map">
   <figcaption>The <i>Coming Home</i> map, from the <a href="https://umaine.edu/canam/publications/coming-home-map/">Canadian-American Center</a>, where you can purchase this map.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ The _Untitled ṮEṮÁĆES_ map, like the _Coming Home_ map, is not intended to
 
 The haptic-map concept is also in part an inquiry into how much “mapness” can be removed from a map before a representation of landscape turns purely abstract. I found echoes of this investigation in William Kentridge’s exercise called “Making a Horse,” which is in Kentridge’s _[Six Drawing Lessons](https://www.hup.harvard.edu/catalog.php?isbn=9780674365803)_—you can see the video versions of Six Drawing Lessons on the [Mahindra Humanities Center’s YouTube channel](https://www.youtube.com/playlist?list=PLtxVM47qfVNCiZGjrzGk68GpwXVCtUVHo).
 
-<figure>
+<figure style="text-align:center;">
   <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="William Kentridge’s “Making a Horse” exercise">
   <figcaption>William Kentridge’s “Making a Horse” exercise, from <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674365803"><i>Six Drawing Lessons</i></a>.</figcaption>
 </figure>
