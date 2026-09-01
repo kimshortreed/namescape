@@ -19,8 +19,8 @@ I was born on the west coast of England in a beach town called [Weston-super-Mar
 
 <details><summary><strong>Click here to read the rest of this post...</strong></summary>
 
-<figure>
-  <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME (Semiahmoo) Territory of my childhood" style="float: right; padding-left:5px;">
+<figure style="float: right; padding-left:5px;">
+  <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME (Semiahmoo) Territory of my childhood">
   <figcaption>Where I grew up, in SEMYOME Territory, near the Canada/USA border.</figcaption>
 </figure>
 
