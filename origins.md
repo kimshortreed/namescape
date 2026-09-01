@@ -8,14 +8,14 @@ The _Untitled ṮEṮÁĆES_ map began as a concept intended to explore ways tha
 
 As mentioned in the [About page](https://kimshortreed.github.io/namescape/about/), the haptic map idea would not have emerged without personal connections to the Salish Sea and my academic and social-justice influences. The haptic-map concept also draws inspiration from two people in particular who I think challenge, through art, understandings of place and perception: cartographer and artist Margaret Pearce and artist and presenter William Kentridge.
 
-<figure>
+<figure style="text-align:center;">
   <img src="{{ 'assets/img/origins-01.jpg' | relative_url }}" alt="Margaret Pearce in front of a map">
-  <figcaption>Margaret Pearce and the <em>[Coming Home to Indigenous Place Names in Canada](https://umaine.edu/canam/publications/coming-home-map/)</em> map.</figcaption>
+  <figcaption>Margaret Pearce and the <a href="https://umaine.edu/canam/publications/coming-home-map/">Coming Home to Indigenous Place Names in Canada</a> map.</figcaption>
 </figure>
 
-<figure>
+<figure style="text-align:center;">
   <img src="{{ 'assets/img/origins-02.png' | relative_url }}" alt="William Kentridge’s self-portrait painting">
-  <figcaption>William Kentridge’s self-portrait, from the [Kentridge Studio website](https://www.kentridge.studio/).</figcaption>
+  <figcaption>William Kentridge’s self-portrait, from the <a href="https://www.kentridge.studio/">Kentridge Studio website</a>.</figcaption>
 </figure>
 
 Pearce’s _[Coming Home to Indigenous Place Names in Canada](https://umaine.edu/canam/publications/coming-home-map/)_ map is not like the typical Western-style maps. In a recent paper, “[What Shall We Map Next? Expressing Indigenous Geographies with Cartographic Language](https://www.degruyter.com/document/doi/10.1515/9783839452417-011/pdf),” Pearce, a member of Citizen [Potawatomi Nation](https://www.potawatomi.org/), describes working against “how maps are obligated to look and what they are obligated to include and achieve.” The _Coming Home_ map advances the presences of Indigenous place names and removes or changes cartographic elements typical of most Western-style maps, such as settler-colonial toponyms, scale information, and cardinal directions, like north and south.
@@ -24,7 +24,7 @@ Pearce and Stephen J. Hornsby talk about the making of the _Coming Home_ map in 
 
 <figure>
   <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="the Coming Home map">
-  <figcaption>The <em>Coming Home</em> map, from the [Canadian-American Center](https://umaine.edu/canam/publications/coming-home-map/), where you can purchase this map.</figcaption>
+  <figcaption>The <em>Coming Home</em> map, from the <a href="https://umaine.edu/canam/publications/coming-home-map/">Canadian-American Center</a>, where you can purchase this map.</figcaption>
 </figure>
 
 The _Coming Home_ map is not intended, as Pearce says, to be comprehensive or to represent every Indigenous community in Canada:
