@@ -19,17 +19,18 @@ I recognize that it is important to provide this personal context so that you ca
 
 I was born on the west coast of England, in a beach town called [Weston-super-Mare](https://goo.gl/maps/eJng1Au5ASep7ruw8). Maternally, my family has roots in England, Australia, and India. We recently learned that my great-great aunt, on my mother's side, is the famous Romany leader [Urania Boswell](https://www.farnborough-kent-village.org.uk/locks_boswells.html).   
 
+When I was five, we emigrated to Treaty 6 territory, in Edmonton, next to the [North Saskatchewan River, or kisiskâciwanisîpiy](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-river), where my stepdad was born and raised. We then moved to [White Rock](https://goo.gl/maps/f5Q3Zk5oper1aPCZ7), what I consider my home town, in [SEMYOME (Semiahmoo) Territory](https://www.semiahmoofirstnation.ca/). I grew up playing on the beach, near the Canada/USA border, as an uninvited guest within and around the boundaries of the [Semiahmoo Reserve](https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/RVDetail.aspx?RESERVE_NUMBER=08047). 
+
 <figure style="float: right; padding-left:5px;">
   <img src="{{ 'assets/img/about-02.jpg' | relative_url }}" alt="the SEMYOME Territory of my childhood">
-  <figcaption>SEMYOME Territory, near the Canada/USA border.</figcaption>
+  <figcaption></figcaption>
 </figure>
-
-When I was five, we emigrated to Treaty 6 territory, in Edmonton, next to the [North Saskatchewan River, or kisiskâciwanisîpiy](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-river), where my stepdad was born and raised. We then moved to [White Rock](https://goo.gl/maps/f5Q3Zk5oper1aPCZ7), what I consider my home town, in [SEMYOME (Semiahmoo) Territory](https://www.semiahmoofirstnation.ca/). I grew up playing on the beach as an uninvited guest within and around the boundaries of the [Semiahmoo Reserve](https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/RVDetail.aspx?RESERVE_NUMBER=08047). 
 
 My childhood soundscape was seagull cries, surf, and passing trains, and my scentscape was dusty rosehip bushes, sunbaked kelp, steaming tidal pools, and train-track creosote, and that particular wet-bone tang of decayed sand dollars.
 
-To this day I could not imagine living away from the sea. I spent countless hours staring across Semiahmoo Bay to W̱SÁNEĆ territory, or the [Gulf Islands](https://goo.gl/maps/qX6NdP15sJDbc1B4A) and [Vancouver Island](https://goo.gl/maps/oY92z2q93VSy1Rpo6), in the distance. At the time, like most [W̱ENITEM](https://itservices.cas.unt.edu/~montler/saanich/wordlist/humanrelations#687.), or White, Anglo settlers, I knew nearly nothing about the Indigenous histories and ongoing presences on SEMYOME or W̱SÁNEĆ lands, despite the fact that when we were all kids, my brother Jode and I used to hang out and mostly skateboard with [Charlie Xwopokton Chappell](https://www.semiahmoofirstnation.ca/chief-and-council), who became SEMYOME Chief in late 2016. It feels surreal that Charlie would go on to be Chief. It is also telling of the settler education system's shortcomings: I grew up playing on and next to the Semiahmoo Reserve, yet I was taught very little about the Indigenous cultures and Peoples around me.
+To this day I could not imagine living away from the sea. I spent countless hours staring across Semiahmoo Bay to W̱SÁNEĆ territory, or the [Gulf Islands](https://goo.gl/maps/qX6NdP15sJDbc1B4A) and [Vancouver Island](https://goo.gl/maps/oY92z2q93VSy1Rpo6), in the distance. 
 
+At the time, like most [W̱ENITEM](https://itservices.cas.unt.edu/~montler/saanich/wordlist/humanrelations#687.), or White, Anglo settlers, I knew nearly nothing about the Indigenous histories and ongoing presences on SEMYOME or W̱SÁNEĆ lands, despite the fact that when we were all kids, my brother Jode and I used to hang out and mostly skateboard with [Charlie Xwopokton Chappell](https://www.semiahmoofirstnation.ca/chief-and-council), who became SEMYOME Chief in late 2016. It feels surreal that Charlie would go on to be Chief. It is also telling of the settler education system's shortcomings: I grew up playing on and next to the Semiahmoo Reserve, yet I was taught very little about the Indigenous cultures and Peoples around me.
 
 <figure>
   <img src="{{ 'assets/img/about-03.jpg' | relative_url }}" alt="Looking south from TATLU (Campbell River), in SEMYOME Territory">
