@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Construction gallery
-subtitle: Images of making the _Untitled ṮEṮÁĆES_ map
+subtitle: Images of making the <em>Untitled ṮEṮÁĆES</em> map
 ---
 
 This gallery shows most of the work it took to make the finished _Untitled ṮEṮÁĆES_ map. Like any art project, we had to work out next steps as we went along. But this process was also what made the project so satisfying. 
