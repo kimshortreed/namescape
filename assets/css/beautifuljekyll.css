@@ -1124,3 +1124,12 @@ pre {
     display: inline-block;
   }
 }
+
+/* --- custom CSS rules --- */
+
+figcaption {
+  font-size: 0.85em;
+  text-align: center;
+  color: #666;
+  margin-top: 0.5em;
+}
