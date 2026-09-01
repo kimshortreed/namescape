@@ -13,7 +13,7 @@ Kim brought the idea to TEMOSEṈ Chazz Elliott and they co-created the concept 
 *   [TEMOSEṈ Chazz Elliott](https://www.instagram.com/temoseng/)
 *   Matthew Parlby-Elliott 
 *   [Jesse Campbell](http://campbellvisualarts.com)
-*   [Kim Shortreed](https://www.instagram.com/kimshortreed/)
+*   [Kim Shortreed](https://kimshortreed.github.io/)
 
 ### Funders
 
