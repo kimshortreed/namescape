@@ -11,6 +11,11 @@ A happy hello to you. My name is Kim Shortreed (he/him), and I am an uninvited g
 <figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
 </figure>
 
+<figure>
+  <img src="{{ 'assets/img/about-01.jpg' | relative_url }}" alt="Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian">
+  <figcaption>Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian.</figcaption>
+</figure>
+
 My academic work is interdisciplinary: I focus on place names, or toponyms, through a particular lens, drawing from a mix of geohumanities, cartography, history, media studies, digital humanities, Indigenous studies, and settler colonial studies. I am interested in the settler-politics and social-justice aspects of “namescapes,” what I understand as the way we make and maintain a sense of place through naming landscapes. I also write about freestyle skateboarding. You can learn more about my academic and professional background on [my CV webpage](https://kimshortreed.github.io).
 
 I recognize that it is important to provide this personal context so that you can understand a little more about what motivates my work, which is all part of a lifelong journey to connect with, learn about, and honour the landscapes and seascapes around me that I love so much.
