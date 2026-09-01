@@ -6,7 +6,7 @@ subtitle: A bit about my current perspectives
 
 A happy hello to you. My name is Kim Shortreed (he/him), and I am an uninvited guest in [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [W̱SÁNEĆ](https://wsanec.com/history-territory/) territories in the [Salish Sea](https://en.wikipedia.org/wiki/Salish_Sea). I am a recent (May, 2023) [PhD graduate](https://www.uvic.ca/humanities/english/graduate/studentprofiles/shortreed-kim.php), writer, and artist.
 
-<figure>
+<figure style="text-align:center;">
   <img src="{{ 'assets/img/about-01.jpg' | relative_url }}" alt="Standing inside the _Untitled ṮEṮÁĆES_ map with Jillian">
   <figcaption>Standing inside the <em>Untitled ṮEṮÁĆES</em> map with Jillian.</figcaption>
 </figure>
@@ -32,7 +32,7 @@ To this day I could not imagine living away from the sea. I spent countless hour
 
 At the time, like most [W̱ENITEM](https://itservices.cas.unt.edu/~montler/saanich/wordlist/humanrelations#687.), or White, Anglo settlers, I knew nearly nothing about the Indigenous histories and ongoing presences on SEMYOME or W̱SÁNEĆ lands, despite the fact that when we were all kids, my brother Jode and I used to hang out and mostly skateboard with [Charlie Xwopokton Chappell](https://www.semiahmoofirstnation.ca/chief-and-council), who became SEMYOME Chief in late 2016. It feels surreal that Charlie would go on to be Chief. It is also telling of the settler education system's shortcomings: I grew up playing on and next to the Semiahmoo Reserve, yet I was taught very little about the Indigenous cultures and Peoples around me.
 
-<figure>
+<figure style="text-align:center;">
   <img src="{{ 'assets/img/about-03.jpg' | relative_url }}" alt="Looking south from TATLU (Campbell River), in SEMYOME Territory">
   <figcaption>Looking south from TATLU (Campbell River), in SEMYOME Territory.</figcaption>
 </figure>
