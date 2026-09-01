@@ -6,7 +6,7 @@ subtitle: Making places whole from place name pieces
 
 The _Untitled ṮEṮÁĆES_ map began as a concept intended to explore ways that interactive art can teach and challenge us to think differently about the relationships between Indigenous and English place names.
 
-As mentioned in the [About page](https://kimshortreed.github.io/namescape/about/), the haptic map idea would not have emerged without personal connections to the Salish Sea and my academic and social-justice influences. The haptic-map concept also draws inspiration from two people in particular who I think challenge, through art, understandings of place and perception: cartographer and artist Margaret Pearce and artist and presenter William Kentridge.
+As mentioned in the [About page](https://kimshortreed.github.io/namescape/about/), the haptic map idea would not have emerged without personal connections to the Salish Sea and my academic and social justice influences. The haptic map concept also draws inspiration from two people in particular who I think challenge, through art, understandings of place and perception: cartographer and artist Margaret Pearce and artist and presenter William Kentridge.
 
 <figure style="text-align:center;">
   <img src="{{ 'assets/img/origins-01.jpg' | relative_url }}" alt="Margaret Pearce in front of a map">
@@ -24,7 +24,7 @@ Pearce and Stephen J. Hornsby talk about the making of the _Coming Home_ map in 
 
 <figure>
   <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="the Coming Home map">
-  <figcaption>The <em>Coming Home</em> map, from the <a href="https://umaine.edu/canam/publications/coming-home-map/">Canadian-American Center</a>, where you can purchase this map.</figcaption>
+  <figcaption>The <i>Coming Home</i> map, from the <a href="https://umaine.edu/canam/publications/coming-home-map/">Canadian-American Center</a>, where you can purchase this map.</figcaption>
 </figure>
 
 The _Coming Home_ map is not intended, as Pearce says, to be comprehensive or to represent every Indigenous community in Canada:
@@ -41,7 +41,7 @@ The haptic-map concept is also in part an inquiry into how much “mapness” ca
 
 <figure>
   <img src="{{ 'assets/img/origins-04.png' | relative_url }}" alt="William Kentridge’s “Making a Horse” exercise">
-  <figcaption>William Kentridge’s “Making a Horse” exercise, from <em>[Six Drawing Lessons](https://www.hup.harvard.edu/catalog.php?isbn=9780674365803)</em>.</figcaption>
+  <figcaption>William Kentridge’s “Making a Horse” exercise, from <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674365803"><i>Six Drawing Lessons</i></a>.</figcaption>
 </figure>
 
 Kentridge works in several media, but in the “Making a Horse” exercise, in _Six Drawing Lessons_, we see torn pieces of paper rearranged into the shape of a “horse.” Kentridge asks an important question through this exercise: “are we unable to stop ourselves from seeing in them a shape, a form, a horse?” Even when the “horse” shape is reduced to a minimum of paper pieces, Kentridge remarks that “we cannot help ourselves from seeing the horse,” and that this tendency reveals in us “an unwilling suspension of disbelief.” I wonder, similarly, if it is possible to stop seeing what we think of places we know on already familiar landscapes.
