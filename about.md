@@ -30,6 +30,7 @@ My childhood soundscape was seagull cries, surf, and passing trains, and my scen
 
 To this day I could not imagine living away from the sea. I spent countless hours staring across Semiahmoo Bay to W̱SÁNEĆ territory, or the [Gulf Islands](https://goo.gl/maps/qX6NdP15sJDbc1B4A) and [Vancouver Island](https://goo.gl/maps/oY92z2q93VSy1Rpo6), in the distance. At the time, like most [W̱ENITEM](https://itservices.cas.unt.edu/~montler/saanich/wordlist/humanrelations#687.), or White, Anglo settlers, I knew nearly nothing about the Indigenous histories and ongoing presences on SEMYOME or W̱SÁNEĆ lands, despite the fact that when we were all kids, my brother Jode and I used to hang out and mostly skateboard with [Charlie Xwopokton Chappell](https://www.semiahmoofirstnation.ca/chief-and-council), who became SEMYOME Chief in late 2016. It feels surreal that Charlie would go on to be Chief. It is also telling of the settler education system's shortcomings: I grew up playing on and next to the Semiahmoo Reserve, yet I was taught very little about the Indigenous cultures and Peoples around me.
 
+
 <figure>
   <img src="{{ 'assets/img/about-03.jpg' | relative_url }}" alt="Looking south from TATLU (Campbell River), in SEMYOME Territory">
   <figcaption>Looking south from TATLU (Campbell River), in SEMYOME Territory.</figcaption>
