@@ -3,6 +3,7 @@ layout: page
 title: Links
 subtitle: Place name and map links
 ---
+[![vintage map screenshot](assets/img/links-01.png)](https://bcgenesis.uvic.ca/fo_925-1373_van_isl_1848.html)
 
 🔗**Please link cautiously**. I include links, below, to content that I may use for information, but this does not mean that I endorse or agree with the content presented, or that I have vetted every source for topics or content that may cause trauma to some readers.
 
