@@ -20,17 +20,17 @@ This short but excellent show happened just prior to showing the _Untitled ṮET
 >   
 > This exhibition will provide a unique opportunity for the public to immerse themselves in the rich heritage and captivating creativity of W̱SÁNEĆ art. Thoughtfully curated by Indigenous Curator Rose Spahan (W̱SÁNEĆ), this exhibition highlights the talents of a younger generation of Indigenous artists who are at the forefront of preserving and revitalizing their cultural traditions through art.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8KFkZAQGignbQzvBx2eMYiqM9wcvXH_isifETittMFTbqSEk6hf02j2iifyExOmOwma6JwCsJTeM9Wz-Koj6an8A89FJfMtPou6bqDUCf8c_X-dmcbR13_eiaEL4HE0soGXeZR483fKLX-eb2YELM01BVc5y2M6JNsqqSCdWndC01lJziAvGmuEo2ywIf/s600/SalishArtExhibitposter.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8KFkZAQGignbQzvBx2eMYiqM9wcvXH_isifETittMFTbqSEk6hf02j2iifyExOmOwma6JwCsJTeM9Wz-Koj6an8A89FJfMtPou6bqDUCf8c_X-dmcbR13_eiaEL4HE0soGXeZR483fKLX-eb2YELM01BVc5y2M6JNsqqSCdWndC01lJziAvGmuEo2ywIf/s2048/SalishArtExhibitposter.jpg)
+![Campbell Bay Music Fest poster](assets/img/shows-02.png)
 
 ### [Legacy Art Gallery](https://maps.app.goo.gl/rbAGBHk2WWJBGPTh9), September 23 - December 9, 2023
 
 Thanks to all who attended and to all who made this great show possible. We had a lively artists' [panel discussion](https://events.uvic.ca/legacy/event/79542-untitled-tetaces-artist-talk) with some excellent audience questions. Along with creating excellent resources, like the didactic panels for [exhibition's text](https://www.uvic.ca/legacygalleries/exhibitions/exh46-text.php), Legacy Galleries also took one aim of the show, to raise awareness about WSÁNEĆ place names, many steps further by working with us to create the **[_Untitled ṮEṮÁĆES_ Online Education Package](https://legacy.uvic.ca/gallery/untitledtetaces/)**. Designed to give K-12 students, teachers, this resource gives and community members an opportunity to further learn from and engage with the Untitled ṮEṮÁĆES art exhibition in their classrooms and at home.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAQ92mFB3SiqqP3oKsY1swU4D-3xPlF_hTXhglD1fvuiZkmlZE9uALWR6m7lVcVJGokB99vkuDWhawyCGXc2UnB2KwUrV3kjfPZAQteGG3d8cPC_JXuYSefM8R2r2Ll7SO1k-qUJMe0eThP7yHiUZKEV3SrKax-YteJsrjOsPoliXvXzNtkYaeafWzedR/s600/LegacyPosterWebSized.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAQ92mFB3SiqqP3oKsY1swU4D-3xPlF_hTXhglD1fvuiZkmlZE9uALWR6m7lVcVJGokB99vkuDWhawyCGXc2UnB2KwUrV3kjfPZAQteGG3d8cPC_JXuYSefM8R2r2Ll7SO1k-qUJMe0eThP7yHiUZKEV3SrKax-YteJsrjOsPoliXvXzNtkYaeafWzedR/s1545/LegacyPosterWebSized.jpg)
+![Legacy Art Gallery poster](assets/img/shows-03.png)
 
 ### [UVic McPherson Library](https://www.uvic.ca/library/about/events/news/current/tetaces-exhibit.php), January - July, 2024
 
 Thanks to UVic Libraries, especially to Fine Arts Librarian [Christine Walde](https://www.uvic.ca/library/help/librarians/cwalde/index.php), for hosting the map for its longest show to date! Hundreds of students, staff, and other visitors to the library got to experience the map and learn more about it thanks to this excellent [Instagram post](https://www.instagram.com/reel/C35pqBDvHY7/), which shows the map in action.  
   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJdi7xxlbMV-q_cOLIIsrgnjQPNeyG8ArxpjI8Xna9gF7xdJwJXRZa9fR1F-8-n5EWWjm1Ph8k3KTkaquEdfiw0exZFBPqNAd7AEDOPOQKWIc1SktmHS4vWwGwcExHtLqhkTdS6P-XJp1aTv26Tk9uGFE5cYP_maqAbOcVPQKBWpgoN3C2l1aSMcRqjeIU/s1600/tetaces.jpg)
+![UVic Libraries show image](assets/img/shows-04.png)
 
