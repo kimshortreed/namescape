@@ -4,11 +4,12 @@ title: Name changes
 subtitle: Place-name changes list, mostly for the Salish Sea region
 ---
 
-![image of a Salish Sea map](https://images.squarespace-cdn.com/content/v1/5602e09be4b053956b5c8d3a/1522961879022-NUFZ8DHZT4761RD037SO/SalishSea.jpg)
+<figure style="text-align:center;">
+  <img src="{{ 'assets/img/namechanges-01.png' | relative_url }}" alt="screenshot of Salish Sea map image">
+  <figcaption>Image from Erica Simek Sloniker and the <a href="https://www.washingtonnature.org/fieldnotes/two-minute-takeaway-where-is-the-salish-sea">TNC</a>.</figcaption>
+</figure>
 
-Image from Erica Simek Sloniker and the [TNC](https://www.washingtonnature.org/fieldnotes/two-minute-takeaway-where-is-the-salish-sea).
-
-This is a running list of links, in date order, to articles and information related to what some call Indigenous toponymic resurgence: **the reclamation and creation of Indigenous-language place names**. I also include articles and more that ask us to consider this resurgence in new ways.
+This is a running list of links, in date order, to **articles and information** related to what some call Indigenous toponymic resurgence: **the reclamation and creation of Indigenous-language place names**. I also include articles and more that ask us to consider this resurgence in new ways.
 
 This list will not have everything, but I am doing my best to keep it updated as the changes roll in. I am mostly focused on the **Salish Sea and the West Coast** but acknowlegdge that these welcome changes are happening across Turtle Island/North America. I want to keep track of these changes to show that all the hard work is paying off.
 
