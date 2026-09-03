@@ -11,7 +11,7 @@ subtitle: Place-name changes list, mostly for the Salish Sea region
 
 This is a running list of links, in date order, to **articles and information** related to what some call Indigenous toponymic resurgence: **the reclamation and creation of Indigenous-language place names**. I also include articles and more that ask us to consider this resurgence in new ways.
 
-This list will not have everything, but I am doing my best to keep it updated as the changes roll in. I am mostly focused on the **Salish Sea and the West Coast** but acknowlegdge that these welcome changes are happening across Turtle Island/North America. I want to keep track of these changes to show that all the hard work is paying off.
+This list will not have everything, but I am doing my best to keep it updated as the changes roll in. I am mostly focused on the **Salish Sea and the West Coast** but acknowlegdge that these welcome changes are happening across Turtle Island/North America.
 
 It takes time for settler bureaucracies, like the [British Columbia Geographical Names Office](https://apps.gov.bc.ca/pub/bcgnws/web/), to change, but as [Tsawout hereditary Chief WEC'KINEM (Eric Pelkey) said](https://www.timescolonist.com/local-news/pkols-to-be-new-official-name-for-mount-douglas-park-5705705) of the recent (August, 2022) and long fought-for official name change of Mount Douglas to PKOLS, such renamings are another step forward on the road to reconciliation.
 
