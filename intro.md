@@ -24,7 +24,7 @@ The _Untitled ṮEṮÁĆES_ map has islands that speak their name aloud in both
 *   to encourage us to think about how we experience connections to place through landscape and place names
 *   to provide new ways to learn orally about Indigenous and settler namescapes through curiosity and play
 
-The first version of our haptic map, _Untitled ṮEṮÁĆES_ map, is intended to represent landscape aesthetically in some way, but without the typical Western Anglo, or [W̱ENITEM](http://saanich.montler.net/WordList/humanrelations.html#687.), cartographic marks like roads, signs, and borders. It invites you to engage physically and creatively with its artistic topography and to learn place names in unconventional ways.
+The first version of our haptic map, _Untitled ṮEṮÁĆES_ map, is intended to represent landscape aesthetically in some way, but without the typical Western Anglo, or [W̱ENITEM](https://sites.itservices.cas.unt.edu/~montler/saanich/wordlist/humanrelations#687.), cartographic marks like roads, signs, and borders. It invites you to engage physically and creatively with its artistic topography and to learn place names in unconventional ways.
 
 #### Who made the _Untitled ṮEṮÁĆES_ map?
 
