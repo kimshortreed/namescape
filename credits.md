@@ -3,6 +3,7 @@ layout: page
 title: Credits
 subtitle: Credits and HÍ SW̱ KE/gratitudes to those who made this project possible
 ---
+![sunrise over the water in the Haro Strait W̱SÁNEĆ Territory](assets/img/credits-01.png)
 
 The _Untitled ṮEṮÁĆES_ map, the first haptic map prototype, was built collaboratively. Kim Shortreed came up with the concept for a "haptic map" as part of his PhD project, "[Contracolonial Practices in Salish Sea Namescapes](https://dspace.library.uvic.ca/items/ca4689bc-5f3f-42c3-9f61-e980c2eedf65)." 
 
